@@ -1,6 +1,6 @@
-This is a public copy of the `Checkinn Hotem Booking Management System` Developed as a final project for our CMSC 127 Subject.
+This is a public copy of the `Checkinn Hotel Booking Management System` repository, developed as a final project for our CMSC 127 Course "File Procesing and Database Systems".
 
-Disclaimer: This repository is for resume purposes. Moreover, I do not take full credit for the full project. I simply helped to contribute. 
+Disclaimer: This repository is for resume-viewing purposes. I do not take full credit for the full project. I simply helped to contribute. 
 
 -----
 
